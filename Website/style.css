@@ -1,0 +1,204 @@
+body {
+    background-color: bisque rgb(red green blue / alpha);
+    color: black
+}
+
+h2 {
+    margin-left: 1200px;
+    text-align: center;
+    color: rgb(190, 6, 6);
+    font-size: 50px;
+
+}
+
+.cookie-regular {
+  font-family: "Cookie", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 65px;
+    color: rgb(190, 6, 6)
+}
+
+h1 {
+    font-size: 50px;
+    color: rgb(190, 6, 6)
+}
+
+p {
+    font-size: 25px;
+    max-width: 38em;
+    font: justify-content;
+}
+
+
+
+
+
+
+
+
+.solid {
+    border-style: solid
+}
+
+
+
+
+.sale {
+    font-size: 35px;
+    color: rgb(190, 6, 6)
+}
+
+
+.pagetitle {
+    align-items: center;
+    text-align: left;
+}
+
+.pagetitle2 {
+    color: hsl(327, 66%, 58%);
+    align-content: center;
+    text-align: center;
+    font-size: 35px
+}
+
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+main {
+    max-width: 40rem;
+    margin-inline: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+
+}
+
+
+
+
+/* nav */
+
+.topnav {
+    background-color: rgb(250, 5, 5);
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+    align-items: center;
+    padding: 20px 60px;
+    justify-content: center;
+}
+
+.topnav span {
+    display: flex;
+  flex-wrap: wrap;
+    border: 10px solid rgb(247, 16, 0);
+    padding: 1em;
+
+}
+
+
+
+
+.boxed-list {
+    border: 5px solid rgb(196, 0, 33);
+    padding: 5em;
+    margin: 2em
+}
+
+.topnav {
+    font-size: 20px
+}
+
+a {
+    color: rgb(15, 15, 15);
+}
+
+a:visited {
+    color: #2e2626;
+}
+
+a:hover {
+    color: #b11f1f;
+}
+
+/* title */
+
+
+.Title {
+    align-items: left;
+    text-align: left;
+}
+
+/* forms */
+
+label {
+    display: block;
+    margin-top: 2rem;
+    font-weight: 250;
+    font-size: 20px;
+    max-width: 36rem;
+}
+
+input,
+select,
+textarea {
+    display: block;
+    width: 100%;
+    max-width: 36rem;
+    font: inherit;
+    font-size: 20px;
+    padding: 0.7rem;
+    border: 2px solid #df0707;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+input:user-invalid,
+textarea:user-invalid {
+    border-color: #b3261e;
+    background: #fff1f0;
+}
+
+button {
+    margin-top: 2rem;
+    padding: 0.7rem 1rem;
+    font: inherit;
+    font-size: 20px;
+    background-color: #da2404;
+    color: rgb(255, 253, 248);
+    border: 0;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+/* News */
+
+section {
+    display: flex;
+    gap: 25px;
+}
+
+
+article {
+    border: 2px solid black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    background-color: rgba(255, 0, 0, 0.247);
+    align-items: center;
+    align-content: center;
+    align-items: center;
+}
+
+
+.images
+
+
+
